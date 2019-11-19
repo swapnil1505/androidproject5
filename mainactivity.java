@@ -1,4 +1,4 @@
-package com.example.mysecondapplication;
+package com.example.mythirdapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,3 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
